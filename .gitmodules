@@ -1,0 +1,6 @@
+[submodule "SOSILE-SERVER"]
+	path = SOSILE-SERVER
+	url = https://github.com/amazingefren/SOSILE-SERVER
+[submodule "SOSILE-CLIENT"]
+	path = SOSILE-CLIENT
+	url = https://github.com/amazingefren/SOSILE-CLIENT
